@@ -1,0 +1,24 @@
+{
+  "name": "read-file",
+  "version": "1.0.0",
+  "description": "Reads a file for Adtile's specific purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pgarciacamou/read-file.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgarciacamou/read-file/issues"
+  },
+  "homepage": "https://github.com/pgarciacamou/read-file",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-sass": "^2.0.1"
+  }
+}
